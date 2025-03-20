@@ -33,6 +33,20 @@ namespace ArraySample {
 
             //Array.Reverse(arr);
 
+            // Jagged Array
+            int[][] entries = new int[3][]; // 앞에 (int [])는 배열 참조 변수. 
+            // int[3][] : 배열을 참조할 수있는 공간 3개를 만들겠다.
+            entries[0] = new int[2];
+            entries[1] = new int[4];
+            entries[2] = new int[3];
+
+            for (int i = 0; i < entries.Length; i++) {
+                for (int j = 0; j < entries[i].Length; j++) {
+                    System.Console.Write(entries[i][j]);
+                }
+                System.Console.WriteLine();
+            }
+
             //2차원 배열
             int[,] map = new int[6, 5] {
                 { 0, 0, 0, 0, 1 },
