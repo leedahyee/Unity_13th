@@ -42,7 +42,7 @@ namespace _8.StructureSample {
         public Vector3 Noremalized => new Vector3(_x / Magnitude, -Y/ Magnitude, -Z/ Magnitude);
 
 
-        float _x, _y, _z;  
+        float _x, _y, _z;
 
 
         // 프로퍼티 : getter와 setter를 간편하게 구현할 수 있는 기능 (캡슐화 용도)
