@@ -6,8 +6,8 @@ namespace ArraySample {
             //// new 키워드 : 샤로 어떤 데이터가 초기화 되었다는 뜻
             //// 배열 생성 방법 : new 자료형[크기]
             //// 배열은 참조 형식
-            //int[] arr = new int[5];
-            //int[] arr1 = { 3, 4, 2, 7, 1 }; // 요소변 초기값 주고 싶을 때
+            // int[] arr = new int[5];
+            // int[] arr1 = { 3, 4, 2, 7, 1 }; // 요소변 초기값 주고 싶을 때
             //// int[] arr1 = new int[5] { 3, 4, 2, 7, 1 }; 이렇게 작성해도 됨
 
             //// 배열의 인덱서
@@ -15,13 +15,13 @@ namespace ArraySample {
             //// arr[i] , 배열의 첫 번째 주소에서부터
             //// i * 요소의 자료형 크기만큼 뒤로 가서
             //// 해당 주소부터 자료형 크기만큼 읽거나 쓰기 함
-            //arr[0] = 5;
-            //arr[1] = 5;
-            //arr[2] = 5;
-            //arr[3] = 5;
-            //arr[4] = 5;
+            // arr[0] = 5;
+            // arr[1] = 5;
+            // arr[2] = 5;
+            // arr[3] = 5;
+            // arr[4] = 5;
 
-            //for(int i=0; i<arr.Length; i++)
+            // for(int i=0; i<arr.Length; i++)
             //    System.Console.WriteLine(arr[i]);
 
             //// Array 클래스
