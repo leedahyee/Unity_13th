@@ -9,11 +9,16 @@ namespace _8.StructureSample {
     // 구조체의 장점은, 값타입으로 빠르게 데이터 그룹을 읽고 쓰는 것인데
     // 구조체는 16byte를 넘어가게 되면 참조타입을 전달하는 것 보다 성능이 좋지 않다
     struct Vector3 {
+
         // 접근 제한자
         // public       - 외부에서 접근 가능
         // internal     - 동일 어셈블리 (코드조각, ece / dll 등 같으 프로그램 단위) 에서 접근 가능
         // protected    - 상속자만 접근 가능
         // private      - 외부 접근 불가능
+
+        // 구조체 생성자
+        // 구조체를 처음 초기화할 때 호출할 함수 (얘도 함수이기 때문에 오버로드 가능)
+        // 구조체는 기본적으로 내부 데이터를 보호하는 컨셉이기 때문에 접근제한자를 명시하지 않으면 private
 
         // 구조체는 기본적으로 내부 데이터를 보호하는 컨셉이기 때문에 접근 제한자를 명시하지 않으면 private임
         public Vector3(float x, float y, float z) {
@@ -63,7 +68,7 @@ namespace _8.StructureSample {
 
         public float X {
             get { return _x; }
-            set { _x = value; }
+            set { this._x = value; }
         }
 
         public float Y {

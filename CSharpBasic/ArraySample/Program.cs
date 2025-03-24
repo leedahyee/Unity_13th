@@ -34,6 +34,11 @@ namespace ArraySample {
             //Array.Reverse(arr);
 
             // Jagged Array
+            // 1. 비연속적인 데이터 (캐시 메모리 친화적이 아님)
+            // 2. 비연속적이기 때문에 주소 참조가 여러번 일어남
+            // 3. 주소 참조가 여러번 일어나기 때문에 많은 비용이 듬
+            
+
             int[][] entries = new int[3][]; // 앞에 (int [])는 배열 참조 변수. 
             // int[3][] : 배열을 참조할 수있는 공간 3개를 만들겠다.
             entries[0] = new int[2];
@@ -48,7 +53,7 @@ namespace ArraySample {
             }
 
             //2차원 배열
-            int[,] map = new int[6, 5] {
+            int[,] map = new int[6, 5] {                
                 { 0, 0, 0, 0, 1 },
                 { 0, 1, 1, 1, 1 },
                 { 0, 0, 0, 1, 1 },
@@ -105,7 +110,7 @@ namespace ArraySample {
             // 이동 대상 위치가 맵의 경계를 벗어났는가
             if (targetY < 0 || targetY >= map.GetLength(0))
                 return false;
-            if(targetX < 0 || targetX > map.GetLength(1)) 
+            if(targetX < 0 || targetX >= map.GetLength(1)) 
                 return false;
 
             // 이동 불가능한 타일인지 확인 (벽인지)

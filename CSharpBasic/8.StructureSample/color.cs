@@ -52,7 +52,7 @@ namespace _8.StructureSample
         public float R {
             get {
                 if (_useNormalizedScale)
-                    return _r /= MAX;
+                    return _r / MAX;
                 return _r;
             }
             set { _r = value; }
@@ -61,7 +61,7 @@ namespace _8.StructureSample
         public float G {
             get { 
                 if( _useNormalizedScale)
-                    return _g /= MAX;
+                    return _g / MAX;
                 return _g;
             }
             set { _g = value; }
@@ -70,7 +70,7 @@ namespace _8.StructureSample
         public float B {
             get { 
                 if(_useNormalizedScale)
-                    return _b /= MAX;
+                    return _b / MAX;
                 return _b;
             }
             set { _b = value; }
@@ -79,7 +79,7 @@ namespace _8.StructureSample
         public float A {
             get { 
                 if(_useNormalizedScale)
-                    return _a /= MAX;
+                    return _a / MAX;
                 return _a;
             }
             set { _a = value; }
