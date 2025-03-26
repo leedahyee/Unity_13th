@@ -11,12 +11,12 @@
 
             Vector3 target1Position = new Vector3(5f, 2f, 3f);
             Vector3 target2Position = new Vector3(-5f, 3.4f, 1.2f);
-
+            // 프로퍼티 : 외부에 노출시키는 용도
 
             Console.WriteLine();
 
             float dot = Vector3Extensions.Dot(target1Position, target2Position);
-            target1Position.Dot = target2Position;
+            //target1Position.Dot = target2Position;
         }
     }
 }

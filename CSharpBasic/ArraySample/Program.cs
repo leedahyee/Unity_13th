@@ -162,6 +162,7 @@ namespace ArraySample {
                 System.Console.WriteLine();
             }
         }
+
         enum MapNode {
             None,
             Path,

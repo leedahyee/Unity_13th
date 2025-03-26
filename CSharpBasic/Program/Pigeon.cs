@@ -6,18 +6,23 @@ using System.Threading.Tasks;
 
 namespace ClassSample
 {
-    class Pigeon
-    {
-        public int AverageLifespan => _averageLifespan;
-
-        int _averageLifespan;
-
-        public void Fly() {
-            Console.WriteLine("비둘기. 날다");
+    class Pigeon : Bird {
+        public Pigeon(string name) : base(name) {
         }
 
-        public void Walk() {
-            Console.WriteLine("비둘기. 걷다");
+        public override int AverageLifespan => 15;
+
+        public override void Fly() {
+            Console.WriteLine($"{_name}(비둘기), 날다");
+        }
+
+        public override void Walk() {
+            Console.WriteLine($"{_name}(비둘기), 걷다");
+        }
+
+        public override void PrintName() {
+            base.PrintName();
+            Console.WriteLine("구구..."); // virtual 키워드를 사용하면 추가 가능
         }
     }
 }
