@@ -1,4 +1,5 @@
-﻿namespace PracticeOOP
+﻿
+namespace PracticeOOP
 {
     abstract class PC : Character, IAttacker
     {

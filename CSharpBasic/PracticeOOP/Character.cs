@@ -7,7 +7,6 @@ namespace PracticeOOP {
             Hp = hpMax;
         }
 
-
         public string Name { get; private set; }
 
         public int HpMax { get; private set; }

@@ -11,6 +11,10 @@ namespace PracticeOOP
         public TownNPC_VillageChief(string name, int hpMax) : base(name, hpMax) {
         }
 
+        public override char Symbol => '♀';
+
+        public override ConsoleColor SymbolColor => ConsoleColor.DarkMagenta;
+
         public override void Interaction(PC pc) {
             SaySomething();
         }

@@ -1,4 +1,5 @@
-﻿namespace PracticeOOP
+﻿
+namespace PracticeOOP
 {
     class TreasureChest : GameObject, IDamageable
     {
@@ -17,6 +18,10 @@
                 _hp = value;
             } 
         }
+
+        public override char Symbol => '▩';
+
+        public override ConsoleColor SymbolColor => ConsoleColor.Magenta;
 
         private int _hp;
 
