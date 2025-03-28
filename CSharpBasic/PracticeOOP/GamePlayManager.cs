@@ -119,6 +119,7 @@ namespace PracticeOOP
                 default:
                     return;
             }
+
             _playerCoord = new Coord(targetX, targetY);
 
         }
