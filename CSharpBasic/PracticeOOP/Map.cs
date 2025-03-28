@@ -58,10 +58,10 @@ namespace PracticeOOP {
         }
 
         public bool IsValid(Coord coord) {
-            if(coord.X < 0 || coord.X >= _tiles.GetLength(1))
-                return false;
-            if (coord.Y < 0 || coord.Y >= _tiles.GetLength(0))
-                return false;
+            if(coord.X < 0 && coord.X >= _tiles.GetLength(1))
+                return true;
+            if (coord.Y < 0 && coord.Y >= _tiles.GetLength(0))
+                return true;
             return true;
         }
 
