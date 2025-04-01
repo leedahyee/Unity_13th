@@ -23,11 +23,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.ClassSample", "Program\9.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.PracticeOOP", "PracticeOOP\10.PracticeOOP.csproj", "{47144451-7865-436F-966E-0024D85A6C6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractionCalculatorProject", "ConsoleApp2\FractionCalculatorProject.csproj", "{37CFDD3C-D958-4D1D-ABB1-F6DAD6D1A7E3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.1FractionCalculatorProject", "ConsoleApp2\13.1FractionCalculatorProject.csproj", "{37CFDD3C-D958-4D1D-ABB1-F6DAD6D1A7E3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.FractionSample", "FractionSample\13.FractionSample.csproj", "{4F3CD24F-9FBE-4D20-9682-7B6E5A5F57D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.CollectionSample", "CollectionSample\14.CollectionSample.csproj", "{7BF3725C-57EC-4A47-90E6-A4769A7EB1D3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.CollectionsSample", "CollectionSample\14.CollectionsSample.csproj", "{7BF3725C-57EC-4A47-90E6-A4769A7EB1D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

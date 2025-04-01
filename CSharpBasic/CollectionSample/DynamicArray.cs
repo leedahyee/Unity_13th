@@ -1,17 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections;
 
-namespace CollectionSample
+namespace CollectionsSample
 {
-    class DynamicArray
+    class DynamicArray : IEnumerable
     {
         public DynamicArray(int capacity) {
             _data = new object[capacity];
-
-
         }
 
         // 반환 타입이 object가 되어야하므로 this 왼쪽에 있는 자료형이 object로 변환되어야함
@@ -103,5 +97,49 @@ namespace CollectionSample
             RemoveAt(index);
             return true;
         }
+
+
+        /// <summary>
+        /// Enumerator를 반환하는 함수, 
+        /// 즉 IEnumerator의 구현이 필요하다
+        /// </summary>
+        /// <returns></returns>
+        public IEnumerator GetEnumerator() {
+            return new Enumerator(this);
+        }
+
+        struct Enumerator : IEnumerator {
+            public Enumerator(DynamicArray list) {
+                _list = list;
+                _index = 0;
+                _current = default;
+            }
+
+
+            public object Current => _current;
+
+
+            DynamicArray _list; // 원본 데이터가 있는 객체 참조
+            int _index; // 현재 데이터를 가리키는 위치 인덱스
+            object _current; // 현재 데이터
+
+
+            public bool MoveNext() {
+                if (_index < _list.Count) {
+                    _current = _list[_index];
+                    _index++;
+                    return true;
+                }
+
+                _current = default;
+                return false;
+            }
+
+            public void Reset() {
+                _index = 0;
+                _current = default;
+            }
+        }
+
     }
 }
