@@ -1,5 +1,4 @@
 ﻿using System.Collections;
-using CollectionSample;
 
 namespace CollectionsSample {
     internal class Program {
@@ -37,6 +36,11 @@ namespace CollectionsSample {
             numbers1.Add(1);
             numbers1.Add(2);
 
+            DynamicArray<int> numbers2 = new DynamicArray<int>(4);
+            numbers1.Add(4);
+            numbers1.Add(6);
+            numbers1.Add(1);
+
             DynamicArray<string> rewards = new DynamicArray<string>(4);
             rewards.Add("HP Potion");
             rewards.Add("MP Potion");
@@ -49,13 +53,24 @@ namespace CollectionsSample {
                 Console.Write($"{rewards[i]}, ");
             }
 
-            IEnumerator<int> eNumbers = numbers1.GetEumnerator();
-
-            while (eNumbers.MoveNext()) {
-                Console.WriteLine(eNumbers.Current);
+            // using 구문 : IDisposable 객체에 대한 Dispose() 호출 보장 구문
+            // 개발자가 관리되지않는 리소스해제를 깜빡하고 안하는것을 방지하기위한 구문(메모리 누수 방지)
+            using (IEnumerator<int> eNumbers = numbers1.GetEnumerator()) // 책 읽어주는 사람 고용
+            {
+                // 책 읽어주는 사람에게 현재 페이지 읽고 다음장 넘겨주세요
+                // 현재 페이지 읽는데 성공했으면 true. 아니면 false.
+                while (eNumbers.MoveNext()) {
+                    Console.WriteLine(eNumbers.Current);// 책 읽어주는사람에게 현재 페이지 나한테 넘겨주세요
+                }
             }
 
-            IEnumerator
+            IEnumerator<int> e1 = numbers1.GetEnumerator();
+            IEnumerator<int> e2 = numbers2.GetEnumerator();
+
+            while (e1.MoveNext() && e2.MoveNext()) {
+
+            }
+
 
             // foreach 구문
             // IEnumerable 에 대해서 GetEnumerator() 호출하여
@@ -63,6 +78,25 @@ namespace CollectionsSample {
             foreach (int item in numbers1) {
                 Console.WriteLine(item);
             }
+
+            // List - C# 의 제네릭 동적배열
+            //-------------------------------------------------------------
+            List<int> list = new List<int>();
+            list.Add(1);
+            list.Add(4);
+            list.Add(2);
+            list.RemoveAt(2);
+
+            foreach (int item in list) {
+
+            }
+
+            // ArrayList - C# 의 논-제네릭(object 기반) 동적배열 
+            //-------------------------------------------------------------
+            ArrayList arrayList = new ArrayList();
+            arrayList.Add("Hi");
+            arrayList.Add(3.5f);
+            arrayList.Add('a');
         }
     }
 }
