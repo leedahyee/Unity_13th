@@ -97,6 +97,88 @@ namespace CollectionsSample {
             arrayList.Add("Hi");
             arrayList.Add(3.5f);
             arrayList.Add('a');
+
+
+            using (AssetLoader assetLoader = new AssetLoader()) {
+                // TODO : 로드된 에셋 사용
+            }
+
+            IEnumerator<int> countRoutineEnumerator = new CountRoutineEnumerator();
+
+            while (countRoutineEnumerator.MoveNext()) {
+                Console.Write($"{countRoutineEnumerator.Current}");
+            }
+
+            IEnumerator<int> countRoutineEnumerator2 = CountRoutine();
+
+            while (countRoutineEnumerator2.MoveNext()) {
+                Console.Write($"{countRoutineEnumerator2.Current}");
+            }
+
+            IEnumerator dummyEnumerator = DummyRoutinable().GetEnumerator();
+
+            while (dummyEnumerator.MoveNext()) {
+                Console.Write($"{dummyEnumerator.Current}");
+            }
+
+            foreach (object item in DummyRoutinable()) {
+                
+            }
         }
+
+        static IEnumerator BaristaRoutin() {
+            // TODO -> 주문 들어올 때까지 기다리는 로직
+            yield return null;
+            // TODO -> 주문 들어온거 제조하고 제조 될 때까지 기다리는 로직
+            yield return null;
+        }
+
+        static IEnumerator<int> CountRoutine() {
+            yield return 1; // yield 키워드 : iEnumerable 혹은 IEnumeratoe의 MoveNext 구현을 맟 Current에 값을 리턴하는 내용을 작성할 때 사용
+            Random random = new Random();
+            int number = random.Next(0,5 );
+            yield return 2;
+            yield return 3;
+            // yield break;
+        }
+
+        static IEnumerable DummyRoutinable() {
+            yield return "Luke"; // yield 키워드 : iEnumerable 혹은 IEnumeratoe의 MoveNext 구현을 맟 Current에 값을 리턴하는 내용을 작성할 때 사용
+            yield return 3.5f;
+            yield return 'A';
+            // yield break;
+        }
+
+        class CountRoutineEnumerator : IEnumerator<int> {
+            public int Current => throw new NotImplementedException();
+
+            object IEnumerator.Current => Current;
+            int _index;
+            int _current;
+
+            public bool MoveNext() {
+                if(_index == 0)
+                    _current = 1;
+                else if (_index == 1)
+                    _current = 2;
+                else if(_index == 2)
+                    _current = 3;
+                else
+                    return false;
+
+                _index++;
+                return true;
+            }
+
+            public void Reset() {
+                _index = 0;
+                _current = default(int);
+            }
+
+            public void Dispose() {
+
+            }
+        }
+
     }
 }
