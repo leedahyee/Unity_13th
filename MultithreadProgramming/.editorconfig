@@ -1,0 +1,198 @@
+# C# 명명 규칙 및 관례 (.editorconfig)
+# 기반: C# 공식문서의 식별자 명명 규칙 및 관례
+
+[*.{cs,vb}]
+
+###############################
+# 기호 그룹 정의
+###############################
+
+# 인터페이스
+dotnet_naming_symbols.interface.applicable_kinds = interface
+dotnet_naming_symbols.interface.applicable_accessibilities = *
+
+# 클래스
+dotnet_naming_symbols.class.applicable_kinds = class
+dotnet_naming_symbols.class.applicable_accessibilities = *
+
+# 구조체
+dotnet_naming_symbols.struct.applicable_kinds = struct
+dotnet_naming_symbols.struct.applicable_accessibilities = *
+
+# 대리자
+dotnet_naming_symbols.delegate.applicable_kinds = delegate
+dotnet_naming_symbols.delegate.applicable_accessibilities = *
+
+# 열거형
+dotnet_naming_symbols.enum.applicable_kinds = enum
+dotnet_naming_symbols.enum.applicable_accessibilities = *
+
+# 형식 (클래스, 구조체, 인터페이스, 대리자, 열거형)
+dotnet_naming_symbols.types.applicable_kinds = class, struct, interface, enum, delegate
+dotnet_naming_symbols.types.applicable_accessibilities = *
+
+# 공용 멤버 (필드, 속성, 이벤트, 메서드)
+dotnet_naming_symbols.public_members.applicable_kinds = property, method, field, event
+dotnet_naming_symbols.public_members.applicable_accessibilities = public
+
+# 모든 메서드 (로컬 함수 포함)
+dotnet_naming_symbols.methods.applicable_kinds = method, local_function
+dotnet_naming_symbols.methods.applicable_accessibilities = *
+
+# 프라이빗 인스턴스 필드
+dotnet_naming_symbols.private_instance_fields.applicable_kinds = field
+dotnet_naming_symbols.private_instance_fields.applicable_accessibilities = private
+dotnet_naming_symbols.private_instance_fields.required_modifiers = !static
+
+# 프라이빗 정적 필드
+dotnet_naming_symbols.private_static_fields.applicable_kinds = field
+dotnet_naming_symbols.private_static_fields.applicable_accessibilities = private
+dotnet_naming_symbols.private_static_fields.required_modifiers = static
+
+# 스레드 정적 필드
+dotnet_naming_symbols.thread_static_fields.applicable_kinds = field
+dotnet_naming_symbols.thread_static_fields.applicable_accessibilities = private
+dotnet_naming_symbols.thread_static_fields.required_modifiers = static
+
+# 메서드 매개변수
+dotnet_naming_symbols.parameters.applicable_kinds = parameter
+dotnet_naming_symbols.parameters.applicable_accessibilities = *
+
+# 지역 변수
+dotnet_naming_symbols.local_variables.applicable_kinds = local
+dotnet_naming_symbols.local_variables.applicable_accessibilities = *
+
+# 상수 (필드 및 로컬)
+dotnet_naming_symbols.constants.applicable_kinds = field, local
+dotnet_naming_symbols.constants.applicable_accessibilities = *
+dotnet_naming_symbols.constants.required_modifiers = const
+
+# 네임스페이스
+dotnet_naming_symbols.namespaces.applicable_kinds = namespace
+dotnet_naming_symbols.namespaces.applicable_accessibilities = *
+
+# 형식 매개변수
+dotnet_naming_symbols.type_parameters.applicable_kinds = type_parameter
+dotnet_naming_symbols.type_parameters.applicable_accessibilities = *
+
+# 단일 문자 형식 매개변수
+dotnet_naming_symbols.single_type_parameter.applicable_kinds = type_parameter
+dotnet_naming_symbols.single_type_parameter.applicable_accessibilities = *
+
+###############################
+# 명명 스타일 정의
+###############################
+
+# 파스칼 케이스
+dotnet_naming_style.pascal_case.capitalization = pascal_case
+
+# 카멜 케이스
+dotnet_naming_style.camel_case.capitalization = camel_case
+
+# 인터페이스 스타일 (I 접두사 + 파스칼 케이스)
+dotnet_naming_style.interface_style.capitalization = pascal_case
+dotnet_naming_style.interface_style.required_prefix = I
+
+# 프라이빗 인스턴스 필드 스타일 (_ 접두사 + 카멜 케이스)
+dotnet_naming_style.private_field_style.capitalization = camel_case
+dotnet_naming_style.private_field_style.required_prefix = _
+
+# 정적 필드 스타일 (s_ 접두사 + 카멜 케이스)
+dotnet_naming_style.static_field_style.capitalization = camel_case
+dotnet_naming_style.static_field_style.required_prefix = s_
+
+# 스레드 정적 필드 스타일 (t_ 접두사 + 카멜 케이스)
+dotnet_naming_style.thread_static_field_style.capitalization = camel_case
+dotnet_naming_style.thread_static_field_style.required_prefix = t_
+
+# 형식 매개변수 스타일 (T 접두사 + 파스칼 케이스)
+dotnet_naming_style.type_parameter_style.capitalization = pascal_case
+dotnet_naming_style.type_parameter_style.required_prefix = T
+
+# 단일 문자 형식 매개변수 스타일
+dotnet_naming_style.single_type_parameter_style.capitalization = pascal_case
+
+###############################
+# 명명 규칙 정의
+###############################
+
+# 인터페이스는 I로 시작하고 파스칼 케이스 사용
+dotnet_naming_rule.interface_should_begin_with_i.symbols = interface
+dotnet_naming_rule.interface_should_begin_with_i.style = interface_style
+dotnet_naming_rule.interface_should_begin_with_i.severity = error
+
+# 클래스는 파스칼 케이스 사용
+dotnet_naming_rule.class_should_be_pascal_case.symbols = class
+dotnet_naming_rule.class_should_be_pascal_case.style = pascal_case
+dotnet_naming_rule.class_should_be_pascal_case.severity = error
+
+# 구조체는 파스칼 케이스 사용
+dotnet_naming_rule.struct_should_be_pascal_case.symbols = struct
+dotnet_naming_rule.struct_should_be_pascal_case.style = pascal_case
+dotnet_naming_rule.struct_should_be_pascal_case.severity = error
+
+# 대리자는 파스칼 케이스 사용
+dotnet_naming_rule.delegate_should_be_pascal_case.symbols = delegate
+dotnet_naming_rule.delegate_should_be_pascal_case.style = pascal_case
+dotnet_naming_rule.delegate_should_be_pascal_case.severity = error
+
+# 열거형은 파스칼 케이스 사용
+dotnet_naming_rule.enum_should_be_pascal_case.symbols = enum
+dotnet_naming_rule.enum_should_be_pascal_case.style = pascal_case
+dotnet_naming_rule.enum_should_be_pascal_case.severity = error
+
+# 공용 멤버는 파스칼 케이스 사용
+dotnet_naming_rule.public_members_should_be_pascal_case.symbols = public_members
+dotnet_naming_rule.public_members_should_be_pascal_case.style = pascal_case
+dotnet_naming_rule.public_members_should_be_pascal_case.severity = error
+
+# 모든 메서드와 로컬 함수는 파스칼 케이스 사용
+dotnet_naming_rule.methods_should_be_pascal_case.symbols = methods
+dotnet_naming_rule.methods_should_be_pascal_case.style = pascal_case
+dotnet_naming_rule.methods_should_be_pascal_case.severity = error
+
+# 프라이빗 인스턴스 필드는 _로 시작하고 카멜 케이스 사용
+dotnet_naming_rule.private_instance_fields_should_be_underscore_camel_case.symbols = private_instance_fields
+dotnet_naming_rule.private_instance_fields_should_be_underscore_camel_case.style = private_field_style
+dotnet_naming_rule.private_instance_fields_should_be_underscore_camel_case.severity = error
+
+# 프라이빗 정적 필드는 s_로 시작
+dotnet_naming_rule.private_static_fields_should_be_s_underscore.symbols = private_static_fields
+dotnet_naming_rule.private_static_fields_should_be_s_underscore.style = static_field_style
+dotnet_naming_rule.private_static_fields_should_be_s_underscore.severity = error
+
+# 메서드 매개변수는 카멜 케이스 사용
+dotnet_naming_rule.parameters_should_be_camel_case.symbols = parameters
+dotnet_naming_rule.parameters_should_be_camel_case.style = camel_case
+dotnet_naming_rule.parameters_should_be_camel_case.severity = error
+
+# 지역 변수는 카멜 케이스 사용
+dotnet_naming_rule.local_variables_should_be_camel_case.symbols = local_variables
+dotnet_naming_rule.local_variables_should_be_camel_case.style = camel_case
+dotnet_naming_rule.local_variables_should_be_camel_case.severity = error
+
+# 상수는 파스칼 케이스 사용
+dotnet_naming_rule.constants_should_be_pascal_case.symbols = constants
+dotnet_naming_rule.constants_should_be_pascal_case.style = pascal_case
+dotnet_naming_rule.constants_should_be_pascal_case.severity = error
+
+# 속성 형식은 Attribute로 끝남
+dotnet_naming_rule.attribute_types_should_end_with_attribute.symbols = attribute_types
+dotnet_naming_rule.attribute_types_should_end_with_attribute.style = attribute_style
+dotnet_naming_rule.attribute_types_should_end_with_attribute.severity = suggestion
+
+# 네임스페이스는 파스칼 케이스 사용
+dotnet_naming_rule.namespaces_should_be_pascal_case.symbols = namespaces
+dotnet_naming_rule.namespaces_should_be_pascal_case.style = pascal_case
+dotnet_naming_rule.namespaces_should_be_pascal_case.severity = error
+
+# 형식 매개변수는 T로 시작하고 파스칼 케이스 사용
+dotnet_naming_rule.type_parameters_should_start_with_t.symbols = type_parameters
+dotnet_naming_rule.type_parameters_should_start_with_t.style = type_parameter_style
+dotnet_naming_rule.type_parameters_should_start_with_t.severity = suggestion
+
+# 모든 명명 규칙 위반에 대한 전역 심각도 설정
+dotnet_diagnostic.IDE1006.severity = error
+
+[*]
+charset = utf-8

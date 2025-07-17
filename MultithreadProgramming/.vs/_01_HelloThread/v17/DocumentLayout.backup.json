@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\_01_HelloThread\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33F65421-10F2-4D1E-AB34-55497D27442A}|_01_AnsyncBasics\\_01_AnsyncBasics.csproj|c:\\users\\user\\documents\\github\\unity_13th\\_01_hellothread\\_01_ansyncbasics\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F65421-10F2-4D1E-AB34-55497D27442A}|_01_AnsyncBasics\\_01_AnsyncBasics.csproj|solutionrelative:_01_ansyncbasics\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F65421-10F2-4D1E-AB34-55497D27442A}|_01_AnsyncBasics\\_01_AnsyncBasics.csproj|c:\\users\\user\\documents\\github\\unity_13th\\_01_hellothread\\_01_ansyncbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F65421-10F2-4D1E-AB34-55497D27442A}|_01_AnsyncBasics\\_01_AnsyncBasics.csproj|solutionrelative:_01_ansyncbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50FCC59-14B5-46A6-9B2B-FC884F4113AD}|_01_HelloThread\\_01_HelloThread.csproj|c:\\users\\user\\documents\\github\\unity_13th\\_01_hellothread\\_01_hellothread\\_01_hellothread.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E50FCC59-14B5-46A6-9B2B-FC884F4113AD}|_01_HelloThread\\_01_HelloThread.csproj|solutionrelative:_01_hellothread\\_01_hellothread.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC6B5FA-C38D-4C32-A8CC-7C7A6F52BCAD}|_06_ValueTaskBenchmark\\_06_ValueTaskBenchmark.csproj|c:\\users\\user\\documents\\github\\unity_13th\\_01_hellothread\\_06_valuetaskbenchmark\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEC6B5FA-C38D-4C32-A8CC-7C7A6F52BCAD}|_06_ValueTaskBenchmark\\_06_ValueTaskBenchmark.csproj|solutionrelative:_06_valuetaskbenchmark\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4466545-273F-4C03-BB86-820A634E88E0}|_05_CannelPipeline\\_05_CannelPipeline.csproj|c:\\users\\user\\documents\\github\\unity_13th\\_01_hellothread\\_05_cannelpipeline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4466545-273F-4C03-BB86-820A634E88E0}|_05_CannelPipeline\\_05_CannelPipeline.csproj|solutionrelative:_05_cannelpipeline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E68B16-5B65-4645-8D47-990DFF3D9EA2}|_04_Continuation\\_04_Continuation.csproj|c:\\users\\user\\documents\\github\\unity_13th\\_01_hellothread\\_04_continuation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E68B16-5B65-4645-8D47-990DFF3D9EA2}|_04_Continuation\\_04_Continuation.csproj|solutionrelative:_04_continuation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17FFF7E2-F027-472E-A4C9-FAB9E3FDFA2B}|_03_Concellation\\_03_Concellation.csproj|c:\\users\\user\\documents\\github\\unity_13th\\_01_hellothread\\_03_concellation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17FFF7E2-F027-472E-A4C9-FAB9E3FDFA2B}|_03_Concellation\\_03_Concellation.csproj|solutionrelative:_03_concellation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F8BBF9-6908-4C6C-AD8A-193FA99021FD}|_02_AsyncExmple_Breakfast\\_02_AsyncExmple_Breakfast.csproj|c:\\users\\user\\documents\\github\\unity_13th\\_01_hellothread\\_02_asyncexmple_breakfast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F8BBF9-6908-4C6C-AD8A-193FA99021FD}|_02_AsyncExmple_Breakfast\\_02_AsyncExmple_Breakfast.csproj|solutionrelative:_02_asyncexmple_breakfast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F8BBF9-6908-4C6C-AD8A-193FA99021FD}|_02_AsyncExmple_Breakfast\\_02_AsyncExmple_Breakfast.csproj|c:\\users\\user\\documents\\github\\unity_13th\\_01_hellothread\\_02_asyncexmple_breakfast\\cook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F8BBF9-6908-4C6C-AD8A-193FA99021FD}|_02_AsyncExmple_Breakfast\\_02_AsyncExmple_Breakfast.csproj|solutionrelative:_02_asyncexmple_breakfast\\cook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F8BBF9-6908-4C6C-AD8A-193FA99021FD}|_02_AsyncExmple_Breakfast\\_02_AsyncExmple_Breakfast.csproj|c:\\users\\user\\documents\\github\\unity_13th\\_01_hellothread\\_02_asyncexmple_breakfast\\datamodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F8BBF9-6908-4C6C-AD8A-193FA99021FD}|_02_AsyncExmple_Breakfast\\_02_AsyncExmple_Breakfast.csproj|solutionrelative:_02_asyncexmple_breakfast\\datamodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE70AA6-6CBA-4A40-A35A-153B674A5D07}|_02_ThreadPool\\_02_ThreadPool.csproj|c:\\users\\user\\documents\\github\\unity_13th\\_01_hellothread\\_02_threadpool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE70AA6-6CBA-4A40-A35A-153B674A5D07}|_02_ThreadPool\\_02_ThreadPool.csproj|solutionrelative:_02_threadpool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50FCC59-14B5-46A6-9B2B-FC884F4113AD}|_01_HelloThread\\_01_HelloThread.csproj|c:\\users\\user\\documents\\github\\unity_13th\\_01_hellothread\\_01_hellothread\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50FCC59-14B5-46A6-9B2B-FC884F4113AD}|_01_HelloThread\\_01_HelloThread.csproj|solutionrelative:_01_hellothread\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\_01_HelloThread\\_01_AnsyncBasics\\FileName.cs",
+              "RelativeDocumentMoniker": "_01_AnsyncBasics\\FileName.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\_01_HelloThread\\_01_AnsyncBasics\\FileName.cs",
+              "RelativeToolTip": "_01_AnsyncBasics\\FileName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T03:24:03.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\_01_HelloThread\\_06_ValueTaskBenchmark\\Program.cs",
+              "RelativeDocumentMoniker": "_06_ValueTaskBenchmark\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\_01_HelloThread\\_06_ValueTaskBenchmark\\Program.cs",
+              "RelativeToolTip": "_06_ValueTaskBenchmark\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T02:36:20.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\_01_HelloThread\\_05_CannelPipeline\\Program.cs",
+              "RelativeDocumentMoniker": "_05_CannelPipeline\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\_01_HelloThread\\_05_CannelPipeline\\Program.cs",
+              "RelativeToolTip": "_05_CannelPipeline\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwCgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T02:19:16.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\_01_HelloThread\\_04_Continuation\\Program.cs",
+              "RelativeDocumentMoniker": "_04_Continuation\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\_01_HelloThread\\_04_Continuation\\Program.cs",
+              "RelativeToolTip": "_04_Continuation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T02:10:13.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_01_HelloThread.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\_01_HelloThread\\_01_HelloThread\\_01_HelloThread.csproj",
+              "RelativeDocumentMoniker": "_01_HelloThread\\_01_HelloThread.csproj",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\_01_HelloThread\\_01_HelloThread\\_01_HelloThread.csproj",
+              "RelativeToolTip": "_01_HelloThread\\_01_HelloThread.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-16T01:49:45.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\_01_HelloThread\\_01_AnsyncBasics\\Program.cs",
+              "RelativeDocumentMoniker": "_01_AnsyncBasics\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\_01_HelloThread\\_01_AnsyncBasics\\Program.cs",
+              "RelativeToolTip": "_01_AnsyncBasics\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwDgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T05:06:28.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\_01_HelloThread\\_03_Concellation\\Program.cs",
+              "RelativeDocumentMoniker": "_03_Concellation\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\_01_HelloThread\\_03_Concellation\\Program.cs",
+              "RelativeToolTip": "_03_Concellation\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T01:14:38.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cook.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\_01_HelloThread\\_02_AsyncExmple_Breakfast\\Cook.cs",
+              "RelativeDocumentMoniker": "_02_AsyncExmple_Breakfast\\Cook.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\_01_HelloThread\\_02_AsyncExmple_Breakfast\\Cook.cs",
+              "RelativeToolTip": "_02_AsyncExmple_Breakfast\\Cook.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T07:31:35.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataModels.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\_01_HelloThread\\_02_AsyncExmple_Breakfast\\DataModels.cs",
+              "RelativeDocumentMoniker": "_02_AsyncExmple_Breakfast\\DataModels.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\_01_HelloThread\\_02_AsyncExmple_Breakfast\\DataModels.cs",
+              "RelativeToolTip": "_02_AsyncExmple_Breakfast\\DataModels.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T07:30:30.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\_01_HelloThread\\_02_AsyncExmple_Breakfast\\Program.cs",
+              "RelativeDocumentMoniker": "_02_AsyncExmple_Breakfast\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\_01_HelloThread\\_02_AsyncExmple_Breakfast\\Program.cs",
+              "RelativeToolTip": "_02_AsyncExmple_Breakfast\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T07:29:26.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\_01_HelloThread\\_02_ThreadPool\\Program.cs",
+              "RelativeDocumentMoniker": "_02_ThreadPool\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\_01_HelloThread\\_02_ThreadPool\\Program.cs",
+              "RelativeToolTip": "_02_ThreadPool\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwDQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T01:50:30.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\_01_HelloThread\\_01_HelloThread\\Program.cs",
+              "RelativeDocumentMoniker": "_01_HelloThread\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\_01_HelloThread\\_01_HelloThread\\Program.cs",
+              "RelativeToolTip": "_01_HelloThread\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T01:19:06.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+// Validating benchmarks:
+// Benchmark BenchMarks.AccmulateWithValueTask: DefaultJob
+//    * Benchmarked method `AccmulateWithValueTask` is within a non-visible class, all declaring types must be public.
+
+// Benchmark BenchMarks.AccmulateWithTask: DefaultJob
+//    * Benchmarked method `AccmulateWithTask` is within a non-visible class, all declaring types must be public.
+

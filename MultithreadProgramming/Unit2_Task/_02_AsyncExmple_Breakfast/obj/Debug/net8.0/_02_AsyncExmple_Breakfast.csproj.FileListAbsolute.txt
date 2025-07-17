@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\Unity_13th\_01_HelloThread\_02_AsyncExmple_Breakfast\bin\Debug\net8.0\_02_AsyncExmple_Breakfast.exe
+C:\Users\user\Documents\GitHub\Unity_13th\_01_HelloThread\_02_AsyncExmple_Breakfast\bin\Debug\net8.0\_02_AsyncExmple_Breakfast.deps.json
+C:\Users\user\Documents\GitHub\Unity_13th\_01_HelloThread\_02_AsyncExmple_Breakfast\bin\Debug\net8.0\_02_AsyncExmple_Breakfast.runtimeconfig.json
+C:\Users\user\Documents\GitHub\Unity_13th\_01_HelloThread\_02_AsyncExmple_Breakfast\bin\Debug\net8.0\_02_AsyncExmple_Breakfast.dll
+C:\Users\user\Documents\GitHub\Unity_13th\_01_HelloThread\_02_AsyncExmple_Breakfast\bin\Debug\net8.0\_02_AsyncExmple_Breakfast.pdb
+C:\Users\user\Documents\GitHub\Unity_13th\_01_HelloThread\_02_AsyncExmple_Breakfast\obj\Debug\net8.0\_02_AsyncExmple_Breakfast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\Unity_13th\_01_HelloThread\_02_AsyncExmple_Breakfast\obj\Debug\net8.0\_02_AsyncExmple_Breakfast.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\Unity_13th\_01_HelloThread\_02_AsyncExmple_Breakfast\obj\Debug\net8.0\_02_AsyncExmple_Breakfast.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\Unity_13th\_01_HelloThread\_02_AsyncExmple_Breakfast\obj\Debug\net8.0\_02_AsyncExmple_Breakfast.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\Unity_13th\_01_HelloThread\_02_AsyncExmple_Breakfast\obj\Debug\net8.0\_02_AsyncExmple_Breakfast.sourcelink.json
+C:\Users\user\Documents\GitHub\Unity_13th\_01_HelloThread\_02_AsyncExmple_Breakfast\obj\Debug\net8.0\_02_AsyncExmple_Breakfast.dll
+C:\Users\user\Documents\GitHub\Unity_13th\_01_HelloThread\_02_AsyncExmple_Breakfast\obj\Debug\net8.0\refint\_02_AsyncExmple_Breakfast.dll
+C:\Users\user\Documents\GitHub\Unity_13th\_01_HelloThread\_02_AsyncExmple_Breakfast\obj\Debug\net8.0\_02_AsyncExmple_Breakfast.pdb
+C:\Users\user\Documents\GitHub\Unity_13th\_01_HelloThread\_02_AsyncExmple_Breakfast\obj\Debug\net8.0\_02_AsyncExmple_Breakfast.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\Unity_13th\_01_HelloThread\_02_AsyncExmple_Breakfast\obj\Debug\net8.0\ref\_02_AsyncExmple_Breakfast.dll

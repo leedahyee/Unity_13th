@@ -1,0 +1,5 @@
+// Validating benchmarks:
+// ***** BenchmarkRunner: Start   *****
+// ***** Found 2 benchmark(s) in total *****
+// ***** Building 1 exe(s) in Parallel: Start   *****
+// start dotnet  restore /p:UseSharedCompilation=false /p:BuildInParallel=false /m:1 /p:Deterministic=true /p:Optimize=true /p:ArtifactsPath="C:\Users\user\Documents\GitHub\Unity_13th\_01_HelloThread\_02_ThreadPool\bin\Release\net8.0\_02_ThreadPool-DefaultJob-1/" /p:OutDir="C:\Users\user\Documents\GitHub\Unity_13th\_01_HelloThread\_02_ThreadPool\bin\Release\net8.0\_02_ThreadPool-DefaultJob-1\bin\Release\net8.0/" /p:OutputPath="C:\Users\user\Documents\GitHub\Unity_13th\_01_HelloThread\_02_ThreadPool\bin\Release\net8.0\_02_ThreadPool-DefaultJob-1\bin\Release\net8.0/" /p:PublishDir="C:\Users\user\Documents\GitHub\Unity_13th\_01_HelloThread\_02_ThreadPool\bin\Release\net8.0\_02_ThreadPool-DefaultJob-1\publish/" in C:\Users\user\Documents\GitHub\Unity_13th\_01_HelloThread\_02_ThreadPool\bin\Release\net8.0\_02_ThreadPool-DefaultJob-1

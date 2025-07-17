@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\Unity_13th\_01_HelloThread\_03_Concellation\obj\Debug\net8.0\_03_Concellation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\Unity_13th\_01_HelloThread\_03_Concellation\obj\Debug\net8.0\_03_Concellation.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\Unity_13th\_01_HelloThread\_03_Concellation\obj\Debug\net8.0\_03_Concellation.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\Unity_13th\_01_HelloThread\_03_Concellation\obj\Debug\net8.0\_03_Concellation.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\Unity_13th\_01_HelloThread\_03_Concellation\obj\Debug\net8.0\_03_Concellation.sourcelink.json
+C:\Users\user\Documents\GitHub\Unity_13th\_01_HelloThread\_03_Concellation\bin\Debug\net8.0\_03_Concellation.exe
+C:\Users\user\Documents\GitHub\Unity_13th\_01_HelloThread\_03_Concellation\bin\Debug\net8.0\_03_Concellation.deps.json
+C:\Users\user\Documents\GitHub\Unity_13th\_01_HelloThread\_03_Concellation\bin\Debug\net8.0\_03_Concellation.runtimeconfig.json
+C:\Users\user\Documents\GitHub\Unity_13th\_01_HelloThread\_03_Concellation\bin\Debug\net8.0\_03_Concellation.dll
+C:\Users\user\Documents\GitHub\Unity_13th\_01_HelloThread\_03_Concellation\bin\Debug\net8.0\_03_Concellation.pdb
+C:\Users\user\Documents\GitHub\Unity_13th\_01_HelloThread\_03_Concellation\obj\Debug\net8.0\_03_Concellation.dll
+C:\Users\user\Documents\GitHub\Unity_13th\_01_HelloThread\_03_Concellation\obj\Debug\net8.0\refint\_03_Concellation.dll
+C:\Users\user\Documents\GitHub\Unity_13th\_01_HelloThread\_03_Concellation\obj\Debug\net8.0\_03_Concellation.pdb
+C:\Users\user\Documents\GitHub\Unity_13th\_01_HelloThread\_03_Concellation\obj\Debug\net8.0\_03_Concellation.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\Unity_13th\_01_HelloThread\_03_Concellation\obj\Debug\net8.0\ref\_03_Concellation.dll

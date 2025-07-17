@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\Unity_13th\MultithreadProgramming\Unit3_Synchronization\_02_Deadlock\bin\Debug\net8.0\_02_Deadlock.exe
+C:\Users\user\Documents\GitHub\Unity_13th\MultithreadProgramming\Unit3_Synchronization\_02_Deadlock\bin\Debug\net8.0\_02_Deadlock.deps.json
+C:\Users\user\Documents\GitHub\Unity_13th\MultithreadProgramming\Unit3_Synchronization\_02_Deadlock\bin\Debug\net8.0\_02_Deadlock.runtimeconfig.json
+C:\Users\user\Documents\GitHub\Unity_13th\MultithreadProgramming\Unit3_Synchronization\_02_Deadlock\bin\Debug\net8.0\_02_Deadlock.dll
+C:\Users\user\Documents\GitHub\Unity_13th\MultithreadProgramming\Unit3_Synchronization\_02_Deadlock\bin\Debug\net8.0\_02_Deadlock.pdb
+C:\Users\user\Documents\GitHub\Unity_13th\MultithreadProgramming\Unit3_Synchronization\_02_Deadlock\obj\Debug\net8.0\_02_Deadlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\Unity_13th\MultithreadProgramming\Unit3_Synchronization\_02_Deadlock\obj\Debug\net8.0\_02_Deadlock.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\Unity_13th\MultithreadProgramming\Unit3_Synchronization\_02_Deadlock\obj\Debug\net8.0\_02_Deadlock.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\Unity_13th\MultithreadProgramming\Unit3_Synchronization\_02_Deadlock\obj\Debug\net8.0\_02_Deadlock.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\Unity_13th\MultithreadProgramming\Unit3_Synchronization\_02_Deadlock\obj\Debug\net8.0\_02_Deadlock.sourcelink.json
+C:\Users\user\Documents\GitHub\Unity_13th\MultithreadProgramming\Unit3_Synchronization\_02_Deadlock\obj\Debug\net8.0\_02_Deadlock.dll
+C:\Users\user\Documents\GitHub\Unity_13th\MultithreadProgramming\Unit3_Synchronization\_02_Deadlock\obj\Debug\net8.0\refint\_02_Deadlock.dll
+C:\Users\user\Documents\GitHub\Unity_13th\MultithreadProgramming\Unit3_Synchronization\_02_Deadlock\obj\Debug\net8.0\_02_Deadlock.pdb
+C:\Users\user\Documents\GitHub\Unity_13th\MultithreadProgramming\Unit3_Synchronization\_02_Deadlock\obj\Debug\net8.0\_02_Deadlock.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\Unity_13th\MultithreadProgramming\Unit3_Synchronization\_02_Deadlock\obj\Debug\net8.0\ref\_02_Deadlock.dll

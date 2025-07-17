@@ -1,0 +1,11 @@
+// Validating benchmarks:
+// Benchmark Benchmarks.Wotkload_Thread: DefaultJob
+//    * Benchmarked method `Wotkload_Thread` is within a non-visible class, all declaring types must be public.
+
+// Benchmark Benchmarks.Workload_ThreadPool: DefaultJob
+//    * Benchmarked method `Workload_ThreadPool` is within a non-visible class, all declaring types must be public.
+
+//    * Assembly _02_ThreadPool which defines benchmarks is non-optimized
+Benchmark was built without optimization enabled (most probably a DEBUG configuration). Please, build it in RELEASE.
+If you want to debug the benchmarks, please see https://benchmarkdotnet.org/articles/guides/troubleshooting.html#debugging-benchmarks.
+

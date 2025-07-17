@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\Unity_13th\MultithreadProgramming\Unit3_Synchronization\_01_UnsafeToLock\bin\Debug\net8.0\_01_UnsafeToLock.exe
+C:\Users\user\Documents\GitHub\Unity_13th\MultithreadProgramming\Unit3_Synchronization\_01_UnsafeToLock\bin\Debug\net8.0\_01_UnsafeToLock.deps.json
+C:\Users\user\Documents\GitHub\Unity_13th\MultithreadProgramming\Unit3_Synchronization\_01_UnsafeToLock\bin\Debug\net8.0\_01_UnsafeToLock.runtimeconfig.json
+C:\Users\user\Documents\GitHub\Unity_13th\MultithreadProgramming\Unit3_Synchronization\_01_UnsafeToLock\bin\Debug\net8.0\_01_UnsafeToLock.dll
+C:\Users\user\Documents\GitHub\Unity_13th\MultithreadProgramming\Unit3_Synchronization\_01_UnsafeToLock\bin\Debug\net8.0\_01_UnsafeToLock.pdb
+C:\Users\user\Documents\GitHub\Unity_13th\MultithreadProgramming\Unit3_Synchronization\_01_UnsafeToLock\obj\Debug\net8.0\_01_UnsafeToLock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\Unity_13th\MultithreadProgramming\Unit3_Synchronization\_01_UnsafeToLock\obj\Debug\net8.0\_01_UnsafeToLock.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\Unity_13th\MultithreadProgramming\Unit3_Synchronization\_01_UnsafeToLock\obj\Debug\net8.0\_01_UnsafeToLock.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\Unity_13th\MultithreadProgramming\Unit3_Synchronization\_01_UnsafeToLock\obj\Debug\net8.0\_01_UnsafeToLock.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\Unity_13th\MultithreadProgramming\Unit3_Synchronization\_01_UnsafeToLock\obj\Debug\net8.0\_01_UnsafeToLock.sourcelink.json
+C:\Users\user\Documents\GitHub\Unity_13th\MultithreadProgramming\Unit3_Synchronization\_01_UnsafeToLock\obj\Debug\net8.0\_01_UnsafeToLock.dll
+C:\Users\user\Documents\GitHub\Unity_13th\MultithreadProgramming\Unit3_Synchronization\_01_UnsafeToLock\obj\Debug\net8.0\refint\_01_UnsafeToLock.dll
+C:\Users\user\Documents\GitHub\Unity_13th\MultithreadProgramming\Unit3_Synchronization\_01_UnsafeToLock\obj\Debug\net8.0\_01_UnsafeToLock.pdb
+C:\Users\user\Documents\GitHub\Unity_13th\MultithreadProgramming\Unit3_Synchronization\_01_UnsafeToLock\obj\Debug\net8.0\_01_UnsafeToLock.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\Unity_13th\MultithreadProgramming\Unit3_Synchronization\_01_UnsafeToLock\obj\Debug\net8.0\ref\_01_UnsafeToLock.dll

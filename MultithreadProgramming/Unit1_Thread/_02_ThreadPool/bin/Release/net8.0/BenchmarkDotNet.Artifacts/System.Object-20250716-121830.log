@@ -1,0 +1,7 @@
+// Validating benchmarks:
+// Benchmark Benchmarks.Wotkload_Thread: DefaultJob
+//    * Benchmarked method `Wotkload_Thread` is within a non-visible class, all declaring types must be public.
+
+// Benchmark Benchmarks.Workload_ThreadPool: DefaultJob
+//    * Benchmarked method `Workload_ThreadPool` is within a non-visible class, all declaring types must be public.
+
