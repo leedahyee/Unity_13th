@@ -1,0 +1,15 @@
+C:\Users\user\Unity_13th\MultithreadProgramming\Unit2_Task\_07_Parallel\bin\Release\net8.0\_07_Parallel.exe
+C:\Users\user\Unity_13th\MultithreadProgramming\Unit2_Task\_07_Parallel\bin\Release\net8.0\_07_Parallel.deps.json
+C:\Users\user\Unity_13th\MultithreadProgramming\Unit2_Task\_07_Parallel\bin\Release\net8.0\_07_Parallel.runtimeconfig.json
+C:\Users\user\Unity_13th\MultithreadProgramming\Unit2_Task\_07_Parallel\bin\Release\net8.0\_07_Parallel.dll
+C:\Users\user\Unity_13th\MultithreadProgramming\Unit2_Task\_07_Parallel\bin\Release\net8.0\_07_Parallel.pdb
+C:\Users\user\Unity_13th\MultithreadProgramming\Unit2_Task\_07_Parallel\obj\Release\net8.0\_07_Parallel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Unity_13th\MultithreadProgramming\Unit2_Task\_07_Parallel\obj\Release\net8.0\_07_Parallel.AssemblyInfoInputs.cache
+C:\Users\user\Unity_13th\MultithreadProgramming\Unit2_Task\_07_Parallel\obj\Release\net8.0\_07_Parallel.AssemblyInfo.cs
+C:\Users\user\Unity_13th\MultithreadProgramming\Unit2_Task\_07_Parallel\obj\Release\net8.0\_07_Parallel.csproj.CoreCompileInputs.cache
+C:\Users\user\Unity_13th\MultithreadProgramming\Unit2_Task\_07_Parallel\obj\Release\net8.0\_07_Parallel.sourcelink.json
+C:\Users\user\Unity_13th\MultithreadProgramming\Unit2_Task\_07_Parallel\obj\Release\net8.0\_07_Parallel.dll
+C:\Users\user\Unity_13th\MultithreadProgramming\Unit2_Task\_07_Parallel\obj\Release\net8.0\refint\_07_Parallel.dll
+C:\Users\user\Unity_13th\MultithreadProgramming\Unit2_Task\_07_Parallel\obj\Release\net8.0\_07_Parallel.pdb
+C:\Users\user\Unity_13th\MultithreadProgramming\Unit2_Task\_07_Parallel\obj\Release\net8.0\_07_Parallel.genruntimeconfig.cache
+C:\Users\user\Unity_13th\MultithreadProgramming\Unit2_Task\_07_Parallel\obj\Release\net8.0\ref\_07_Parallel.dll

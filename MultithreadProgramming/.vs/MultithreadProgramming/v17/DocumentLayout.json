@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A3EC30E6-8860-4DA1-BC9C-4467ADB921E0}|Unit3_Synchronization\\_08_Mutex\\_08_Mutex.csproj|c:\\users\\user\\unity_13th\\multithreadprogramming\\unit3_synchronization\\_08_mutex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3EC30E6-8860-4DA1-BC9C-4467ADB921E0}|Unit3_Synchronization\\_08_Mutex\\_08_Mutex.csproj|solutionrelative:unit3_synchronization\\_08_mutex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2359EBE4-AB76-DD54-31C4-C018AAF7A494}|Unit3_Synchronization\\_07_SpinLock\\_07_SpinLock.csproj|c:\\users\\user\\unity_13th\\multithreadprogramming\\unit3_synchronization\\_07_spinlock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2359EBE4-AB76-DD54-31C4-C018AAF7A494}|Unit3_Synchronization\\_07_SpinLock\\_07_SpinLock.csproj|solutionrelative:unit3_synchronization\\_07_spinlock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D74A58-C2E5-4F4F-BD64-6C69B15E3D92}|Unit2_Task\\_07_Parallel\\_07_Parallel.csproj|c:\\users\\user\\unity_13th\\multithreadprogramming\\unit2_task\\_07_parallel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D74A58-C2E5-4F4F-BD64-6C69B15E3D92}|Unit2_Task\\_07_Parallel\\_07_Parallel.csproj|solutionrelative:unit2_task\\_07_parallel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA09072B-5321-3475-1C0B-04C6BA2E138E}|Unit3_Synchronization\\_06_ThreadSafeSingleton\\_06_ThreadSafeSingleton.csproj|c:\\users\\user\\unity_13th\\multithreadprogramming\\unit3_synchronization\\_06_threadsafesingleton\\singleton_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA09072B-5321-3475-1C0B-04C6BA2E138E}|Unit3_Synchronization\\_06_ThreadSafeSingleton\\_06_ThreadSafeSingleton.csproj|solutionrelative:unit3_synchronization\\_06_threadsafesingleton\\singleton_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4569E49F-4285-F621-88B4-89B14C4D61B9}|Unit3_Synchronization\\_05_ConcurrentCollections\\_05_ConcurrentCollections.csproj|c:\\users\\user\\unity_13th\\multithreadprogramming\\unit3_synchronization\\_05_concurrentcollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4569E49F-4285-F621-88B4-89B14C4D61B9}|Unit3_Synchronization\\_05_ConcurrentCollections\\_05_ConcurrentCollections.csproj|solutionrelative:unit3_synchronization\\_05_concurrentcollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA09072B-5321-3475-1C0B-04C6BA2E138E}|Unit3_Synchronization\\_06_ThreadSafeSingleton\\_06_ThreadSafeSingleton.csproj|c:\\users\\user\\unity_13th\\multithreadprogramming\\unit3_synchronization\\_06_threadsafesingleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA09072B-5321-3475-1C0B-04C6BA2E138E}|Unit3_Synchronization\\_06_ThreadSafeSingleton\\_06_ThreadSafeSingleton.csproj|solutionrelative:unit3_synchronization\\_06_threadsafesingleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{200B7EEA-ED10-2EFC-0ECC-D0B4E1AFA931}|Unit3_Synchronization\\_03_MonitorSignal\\_03_MonitorSignal.csproj|c:\\users\\user\\unity_13th\\multithreadprogramming\\unit3_synchronization\\_03_monitorsignal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{200B7EEA-ED10-2EFC-0ECC-D0B4E1AFA931}|Unit3_Synchronization\\_03_MonitorSignal\\_03_MonitorSignal.csproj|solutionrelative:unit3_synchronization\\_03_monitorsignal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,20 +35,12 @@
       "RelativeMoniker": "D:0:0:{28FD3671-23E0-C71F-0540-599970B8A241}|Unit2_Task\\_06_ValueTaskBenchmark\\_06_ValueTaskBenchmark.csproj|solutionrelative:unit2_task\\_06_valuetaskbenchmark\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AE1C30D-2640-F2AB-14A0-25D22AB46CAF}|Unit2_Task\\_03_Concellation\\_03_Concellation.csproj|c:\\users\\user\\unity_13th\\multithreadprogramming\\unit2_task\\_03_concellation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AE1C30D-2640-F2AB-14A0-25D22AB46CAF}|Unit2_Task\\_03_Concellation\\_03_Concellation.csproj|solutionrelative:unit2_task\\_03_concellation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4E2639EB-4312-F1D0-941B-2FAA606072D5}|Unit3_Synchronization\\_02_Deadlock\\_02_Deadlock.csproj|c:\\users\\user\\unity_13th\\multithreadprogramming\\unit3_synchronization\\_02_deadlock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E2639EB-4312-F1D0-941B-2FAA606072D5}|Unit3_Synchronization\\_02_Deadlock\\_02_Deadlock.csproj|solutionrelative:unit3_synchronization\\_02_deadlock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D3F4DCD-4AAF-2C4C-9629-8E2753CA6C24}|Unit3_Synchronization\\_04_Interlock\\_04_Interlock.csproj|c:\\users\\user\\unity_13th\\multithreadprogramming\\unit3_synchronization\\_04_interlock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D3F4DCD-4AAF-2C4C-9629-8E2753CA6C24}|Unit3_Synchronization\\_04_Interlock\\_04_Interlock.csproj|solutionrelative:unit3_synchronization\\_04_interlock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4569E49F-4285-F621-88B4-89B14C4D61B9}|Unit3_Synchronization\\_05_ConcurrentCollections\\_05_ConcurrentCollections.csproj|c:\\users\\user\\unity_13th\\multithreadprogramming\\unit3_synchronization\\_05_concurrentcollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4569E49F-4285-F621-88B4-89B14C4D61B9}|Unit3_Synchronization\\_05_ConcurrentCollections\\_05_ConcurrentCollections.csproj|solutionrelative:unit3_synchronization\\_05_concurrentcollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA09072B-5321-3475-1C0B-04C6BA2E138E}|Unit3_Synchronization\\_06_ThreadSafeSingleton\\_06_ThreadSafeSingleton.csproj|c:\\users\\user\\unity_13th\\multithreadprogramming\\unit3_synchronization\\_06_threadsafesingleton\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,14 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{75739F95-0F27-D5DE-93F5-8EA0DAAB19FB}|Unit2_Task\\_01_AnsyncBasics\\_01_AnsyncBasics.csproj|c:\\users\\user\\unity_13th\\multithreadprogramming\\unit2_task\\_01_ansyncbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75739F95-0F27-D5DE-93F5-8EA0DAAB19FB}|Unit2_Task\\_01_AnsyncBasics\\_01_AnsyncBasics.csproj|solutionrelative:unit2_task\\_01_ansyncbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA09072B-5321-3475-1C0B-04C6BA2E138E}|Unit3_Synchronization\\_06_ThreadSafeSingleton\\_06_ThreadSafeSingleton.csproj|c:\\users\\user\\unity_13th\\multithreadprogramming\\unit3_synchronization\\_06_threadsafesingleton\\singleton_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA09072B-5321-3475-1C0B-04C6BA2E138E}|Unit3_Synchronization\\_06_ThreadSafeSingleton\\_06_ThreadSafeSingleton.csproj|solutionrelative:unit3_synchronization\\_06_threadsafesingleton\\singleton_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA09072B-5321-3475-1C0B-04C6BA2E138E}|Unit3_Synchronization\\_06_ThreadSafeSingleton\\_06_ThreadSafeSingleton.csproj|c:\\users\\user\\unity_13th\\multithreadprogramming\\unit3_synchronization\\_06_threadsafesingleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA09072B-5321-3475-1C0B-04C6BA2E138E}|Unit3_Synchronization\\_06_ThreadSafeSingleton\\_06_ThreadSafeSingleton.csproj|solutionrelative:unit3_synchronization\\_06_threadsafesingleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC0885E8-B264-7EF2-B701-F2E699A2C65C}|Unit3_Synchronization\\_01_UnsafeToLock\\_01_UnsafeToLock.csproj|c:\\users\\user\\unity_13th\\multithreadprogramming\\unit3_synchronization\\_01_unsafetolock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -60,6 +68,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{48DED97E-0975-474D-A29C-EB847EB8F44B}|Solution Items{48DED97E-0975-474D-A29C-EB847EB8F44B}|C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{48DED97E-0975-474D-A29C-EB847EB8F44B}|Solution Items{48DED97E-0975-474D-A29C-EB847EB8F44B}|solutionrelative:.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE1C30D-2640-F2AB-14A0-25D22AB46CAF}|Unit2_Task\\_03_Concellation\\_03_Cancellation.csproj|c:\\users\\user\\unity_13th\\multithreadprogramming\\unit2_task\\_03_concellation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE1C30D-2640-F2AB-14A0-25D22AB46CAF}|Unit2_Task\\_03_Concellation\\_03_Cancellation.csproj|solutionrelative:unit2_task\\_03_concellation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -69,24 +81,126 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_08_Mutex\\Program.cs",
+              "RelativeDocumentMoniker": "Unit3_Synchronization\\_08_Mutex\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_08_Mutex\\Program.cs",
+              "RelativeToolTip": "Unit3_Synchronization\\_08_Mutex\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T02:30:35.297Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit2_Task\\_03_Concellation\\Program.cs",
-              "RelativeDocumentMoniker": "Unit2_Task\\_03_Concellation\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit2_Task\\_03_Concellation\\Program.cs",
-              "RelativeToolTip": "Unit2_Task\\_03_Concellation\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwDUAAAA6AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit2_Task\\_07_Parallel\\Program.cs",
+              "RelativeDocumentMoniker": "Unit2_Task\\_07_Parallel\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit2_Task\\_07_Parallel\\Program.cs",
+              "RelativeToolTip": "Unit2_Task\\_07_Parallel\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T08:53:28.221Z",
+              "WhenOpened": "2025-07-18T01:24:44.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_07_SpinLock\\Program.cs",
+              "RelativeDocumentMoniker": "Unit3_Synchronization\\_07_SpinLock\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_07_SpinLock\\Program.cs",
+              "RelativeToolTip": "Unit3_Synchronization\\_07_SpinLock\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA1wBEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T01:20:00.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_03_MonitorSignal\\Program.cs",
+              "RelativeDocumentMoniker": "Unit3_Synchronization\\_03_MonitorSignal\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_03_MonitorSignal\\Program.cs",
+              "RelativeToolTip": "Unit3_Synchronization\\_03_MonitorSignal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:23:39.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit2_Task\\_06_ValueTaskBenchmark\\Program.cs",
+              "RelativeDocumentMoniker": "Unit2_Task\\_06_ValueTaskBenchmark\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit2_Task\\_06_ValueTaskBenchmark\\Program.cs",
+              "RelativeToolTip": "Unit2_Task\\_06_ValueTaskBenchmark\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T03:46:33.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Singleton_1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_06_ThreadSafeSingleton\\Singleton_1.cs",
+              "RelativeDocumentMoniker": "Unit3_Synchronization\\_06_ThreadSafeSingleton\\Singleton_1.cs",
+              "ToolTip": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_06_ThreadSafeSingleton\\Singleton_1.cs",
+              "RelativeToolTip": "Unit3_Synchronization\\_06_ThreadSafeSingleton\\Singleton_1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:18:43.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_06_ThreadSafeSingleton\\Program.cs",
+              "RelativeDocumentMoniker": "Unit3_Synchronization\\_06_ThreadSafeSingleton\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_06_ThreadSafeSingleton\\Program.cs",
+              "RelativeToolTip": "Unit3_Synchronization\\_06_ThreadSafeSingleton\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:23:23.119Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_05_ConcurrentCollections\\Program.cs",
+              "RelativeDocumentMoniker": "Unit3_Synchronization\\_05_ConcurrentCollections\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_05_ConcurrentCollections\\Program.cs",
+              "RelativeToolTip": "Unit3_Synchronization\\_05_ConcurrentCollections\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:09:37.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_02_Deadlock\\Program.cs",
+              "RelativeDocumentMoniker": "Unit3_Synchronization\\_02_Deadlock\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_02_Deadlock\\Program.cs",
+              "RelativeToolTip": "Unit3_Synchronization\\_02_Deadlock\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:18:35.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_04_Interlock\\Program.cs",
               "RelativeDocumentMoniker": "Unit3_Synchronization\\_04_Interlock\\Program.cs",
@@ -98,58 +212,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_03_MonitorSignal\\Program.cs",
-              "RelativeDocumentMoniker": "Unit3_Synchronization\\_03_MonitorSignal\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_03_MonitorSignal\\Program.cs",
-              "RelativeToolTip": "Unit3_Synchronization\\_03_MonitorSignal\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit2_Task\\_03_Concellation\\Program.cs",
+              "RelativeDocumentMoniker": "Unit2_Task\\_03_Concellation\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit2_Task\\_03_Concellation\\Program.cs",
+              "RelativeToolTip": "Unit2_Task\\_03_Concellation\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDUAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T05:23:39.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T08:53:28.221Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_02_Deadlock\\Program.cs",
-              "RelativeDocumentMoniker": "Unit3_Synchronization\\_02_Deadlock\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_02_Deadlock\\Program.cs",
-              "RelativeToolTip": "Unit3_Synchronization\\_02_Deadlock\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T05:18:35.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit2_Task\\_06_ValueTaskBenchmark\\Program.cs",
-              "RelativeDocumentMoniker": "Unit2_Task\\_06_ValueTaskBenchmark\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit2_Task\\_06_ValueTaskBenchmark\\Program.cs",
-              "RelativeToolTip": "Unit2_Task\\_06_ValueTaskBenchmark\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T03:46:33.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_05_ConcurrentCollections\\Program.cs",
-              "RelativeDocumentMoniker": "Unit3_Synchronization\\_05_ConcurrentCollections\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_05_ConcurrentCollections\\Program.cs",
-              "RelativeToolTip": "Unit3_Synchronization\\_05_ConcurrentCollections\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T07:09:37.537Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_06_ThreadSafeSingleton\\GameManager.cs",
               "RelativeDocumentMoniker": "Unit3_Synchronization\\_06_ThreadSafeSingleton\\GameManager.cs",
@@ -161,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit2_Task\\_02_AsyncExmple_Breakfast\\Program.cs",
               "RelativeDocumentMoniker": "Unit2_Task\\_02_AsyncExmple_Breakfast\\Program.cs",
@@ -173,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit2_Task\\_01_AnsyncBasics\\Program.cs",
               "RelativeDocumentMoniker": "Unit2_Task\\_01_AnsyncBasics\\Program.cs",
@@ -185,31 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Singleton_1.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_06_ThreadSafeSingleton\\Singleton_1.cs",
-              "RelativeDocumentMoniker": "Unit3_Synchronization\\_06_ThreadSafeSingleton\\Singleton_1.cs",
-              "ToolTip": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_06_ThreadSafeSingleton\\Singleton_1.cs",
-              "RelativeToolTip": "Unit3_Synchronization\\_06_ThreadSafeSingleton\\Singleton_1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T07:18:43.541Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_06_ThreadSafeSingleton\\Program.cs",
-              "RelativeDocumentMoniker": "Unit3_Synchronization\\_06_ThreadSafeSingleton\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_06_ThreadSafeSingleton\\Program.cs",
-              "RelativeToolTip": "Unit3_Synchronization\\_06_ThreadSafeSingleton\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T07:23:23.119Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_01_UnsafeToLock\\Program.cs",
               "RelativeDocumentMoniker": "Unit3_Synchronization\\_01_UnsafeToLock\\Program.cs",
@@ -221,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "_03_MonitorSignal.csproj",
               "DocumentMoniker": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_03_MonitorSignal\\_03_MonitorSignal.csproj",
               "RelativeDocumentMoniker": "Unit3_Synchronization\\_03_MonitorSignal\\_03_MonitorSignal.csproj",
@@ -229,11 +280,12 @@
               "RelativeToolTip": "Unit3_Synchronization\\_03_MonitorSignal\\_03_MonitorSignal.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-17T06:25:57.348Z"
+              "WhenOpened": "2025-07-17T06:25:57.348Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": ".editorconfig",
               "DocumentMoniker": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\.editorconfig",
               "RelativeDocumentMoniker": ".editorconfig",
@@ -245,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\MultithreadProgramming\\_01_UnsafeToLock\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\Documents\\GitHub\\Unity_13th\\MultithreadProgramming\\_01_UnsafeToLock\\Program.cs",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("_05_ConcurrentCollections")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b29a3d1f824a1103b16662dadb2829bc7256141c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9baa26d491318edab6c2b619b6e7af7dbb5cca95")]
 [assembly: System.Reflection.AssemblyProductAttribute("_05_ConcurrentCollections")]
 [assembly: System.Reflection.AssemblyTitleAttribute("_05_ConcurrentCollections")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
