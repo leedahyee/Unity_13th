@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\MultithreadProgramming\\Unit2_Task\\_06_ValueTaskBenchmark\\_06_ValueTaskBenchmark.csproj": {}
+    "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit2_Task\\_06_ValueTaskBenchmark\\_06_ValueTaskBenchmark.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\MultithreadProgramming\\Unit2_Task\\_06_ValueTaskBenchmark\\_06_ValueTaskBenchmark.csproj": {
+    "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit2_Task\\_06_ValueTaskBenchmark\\_06_ValueTaskBenchmark.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\MultithreadProgramming\\Unit2_Task\\_06_ValueTaskBenchmark\\_06_ValueTaskBenchmark.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit2_Task\\_06_ValueTaskBenchmark\\_06_ValueTaskBenchmark.csproj",
         "projectName": "_06_ValueTaskBenchmark",
-        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\MultithreadProgramming\\Unit2_Task\\_06_ValueTaskBenchmark\\_06_ValueTaskBenchmark.csproj",
+        "projectPath": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit2_Task\\_06_ValueTaskBenchmark\\_06_ValueTaskBenchmark.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\MultithreadProgramming\\Unit2_Task\\_06_ValueTaskBenchmark\\obj\\",
+        "outputPath": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit2_Task\\_06_ValueTaskBenchmark\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

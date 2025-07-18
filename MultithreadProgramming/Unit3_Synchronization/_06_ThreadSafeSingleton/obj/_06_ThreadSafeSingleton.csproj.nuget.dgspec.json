@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_06_ThreadSafeSingleton\\_06_ThreadSafeSingleton.csproj": {}
+    "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_06_ThreadSafeSingleton\\_06_ThreadSafeSingleton.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_06_ThreadSafeSingleton\\_06_ThreadSafeSingleton.csproj": {
+    "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_06_ThreadSafeSingleton\\_06_ThreadSafeSingleton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_06_ThreadSafeSingleton\\_06_ThreadSafeSingleton.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_06_ThreadSafeSingleton\\_06_ThreadSafeSingleton.csproj",
         "projectName": "_06_ThreadSafeSingleton",
-        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_06_ThreadSafeSingleton\\_06_ThreadSafeSingleton.csproj",
+        "projectPath": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_06_ThreadSafeSingleton\\_06_ThreadSafeSingleton.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_06_ThreadSafeSingleton\\obj\\",
+        "outputPath": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_06_ThreadSafeSingleton\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

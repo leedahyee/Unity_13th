@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01_AnsyncBasics", "Unit2_T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_02_AsyncExmple_Breakfast", "Unit2_Task\_02_AsyncExmple_Breakfast\_02_AsyncExmple_Breakfast.csproj", "{392556DD-29F4-62D6-7C6D-853BB72CB7A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_03_Concellation", "Unit2_Task\_03_Concellation\_03_Concellation.csproj", "{1AE1C30D-2640-F2AB-14A0-25D22AB46CAF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_03_Cancellation", "Unit2_Task\_03_Concellation\_03_Cancellation.csproj", "{1AE1C30D-2640-F2AB-14A0-25D22AB46CAF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_04_Continuation", "Unit2_Task\_04_Continuation\_04_Continuation.csproj", "{5FA3B954-1FC4-276B-379A-C9D851D5C3D5}"
 EndProject

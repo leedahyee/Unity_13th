@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_05_ConcurrentCollections\\_05_ConcurrentCollections.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_05_ConcurrentCollections\\_05_ConcurrentCollections.csproj",
       "projectName": "_05_ConcurrentCollections",
-      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_05_ConcurrentCollections\\_05_ConcurrentCollections.csproj",
+      "projectPath": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_05_ConcurrentCollections\\_05_ConcurrentCollections.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_05_ConcurrentCollections\\obj\\",
+      "outputPath": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit3_Synchronization\\_05_ConcurrentCollections\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

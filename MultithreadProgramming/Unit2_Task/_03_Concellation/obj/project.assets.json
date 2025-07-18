@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\MultithreadProgramming\\Unit2_Task\\_03_Concellation\\_03_Concellation.csproj",
-      "projectName": "_03_Concellation",
-      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\MultithreadProgramming\\Unit2_Task\\_03_Concellation\\_03_Concellation.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit2_Task\\_03_Concellation\\_03_Cancellation.csproj",
+      "projectName": "_03_Cancellation",
+      "projectPath": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit2_Task\\_03_Concellation\\_03_Cancellation.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\MultithreadProgramming\\Unit2_Task\\_03_Concellation\\obj\\",
+      "outputPath": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit2_Task\\_03_Concellation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

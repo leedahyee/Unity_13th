@@ -2333,11 +2333,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\MultithreadProgramming\\Unit1_Thread\\_02_ThreadPool\\_02_ThreadPool.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit1_Thread\\_02_ThreadPool\\_02_ThreadPool.csproj",
       "projectName": "_02_ThreadPool",
-      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\MultithreadProgramming\\Unit1_Thread\\_02_ThreadPool\\_02_ThreadPool.csproj",
+      "projectPath": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit1_Thread\\_02_ThreadPool\\_02_ThreadPool.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\Unity_13th\\MultithreadProgramming\\Unit1_Thread\\_02_ThreadPool\\obj\\",
+      "outputPath": "C:\\Users\\user\\Unity_13th\\MultithreadProgramming\\Unit1_Thread\\_02_ThreadPool\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

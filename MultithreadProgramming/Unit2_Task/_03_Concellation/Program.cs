@@ -1,4 +1,4 @@
-namespace _03_Concellation
+namespace _03_Cancellation
 {
     internal class Program
     {
@@ -45,8 +45,13 @@ namespace _03_Concellation
                 }
                 else
                 {
-
+                    throw;
                 }
+            }
+            finally
+            {
+                // try 구문을 빠져나올 때 실행할 내용
+                // 에외를 Catch한 경우에는 catch 블록을 실행하고 이후에 실행됨.
             }
         }
 

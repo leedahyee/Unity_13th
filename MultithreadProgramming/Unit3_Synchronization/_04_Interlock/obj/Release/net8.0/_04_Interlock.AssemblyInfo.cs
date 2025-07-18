@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("_04_Interlock")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f2c0f56aa24f0e69543c334344fec77b0ca01db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b29a3d1f824a1103b16662dadb2829bc7256141c")]
 [assembly: System.Reflection.AssemblyProductAttribute("_04_Interlock")]
 [assembly: System.Reflection.AssemblyTitleAttribute("_04_Interlock")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
